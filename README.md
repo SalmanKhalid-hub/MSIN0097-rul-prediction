@@ -7,6 +7,8 @@
 -   Main analysis notebook → `rul_prediction_cmapss.ipynb`
 -   Written report & appendix → submitted separately on Moodle (PDF)
 
+  My Candidate number - VGKQ6
+
 ------------------------------------------------------------------------
 
 ## Project Overview
